@@ -1,0 +1,15 @@
+2013-07-05  Jeremy Bennett  <jeremy.bennett@embecosm.com>
+
+	* cam_servo.ino: New file.
+	* CMakeLists.txt: New file.
+	* ChangeLog: New file.
+	* Eserial.h: New file.
+	* .gitignore: Ignore editor backup files.
+	* haarcascade_eye_tree_eyeglasses.xml: New file.
+	* haarcascade_frontalface_alt.xml: New file.
+	* lbpcascade_frontalface.xml: New file.
+	* techbitarFaceDetection.cpp: New file.
+
+2013-07-05  Jeremy Bennett  <jeremy.bennett@embecosm.com>
+
+	* README.md: Provide comprehensive instructions.
